@@ -59,3 +59,11 @@ Add 2–3 findings based on your actual dashboard, such as the highest-revenue c
 
 ## 📝 Conclusion
 This project demonstrates how Excel can transform sales data into meaningful visual insights to support business analysis and decision-making.
+
+
+
+## 📸 Dashboard Preview
+
+![Excel Sales Dashboard](Sales_Dashboards.png)
+
+
